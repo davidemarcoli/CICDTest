@@ -15,7 +15,7 @@ public class CicdTestApplication {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello World!";
+        return "Ronnie, kei API Keys in es öffentliches Repo tue!!!";
     }
 
 }
